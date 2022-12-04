@@ -1,11 +1,11 @@
 ### Hi there, I'm Ashish  👋
 
 
-## I'm a student at NIT Jamshedpur!!
+## I'm a 4th year student at NIT Jamshedpur!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: start competitive coding
-- ⚡ Fun fact: I love to play pubg
+- 🥅 2023 Goals: Learn Implement, Learn Implement....
+- ⚡ Looking for carrer opportunities 
 
 
 ### Connect with me:
