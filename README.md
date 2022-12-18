@@ -28,10 +28,8 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
 [<img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />]
-<br />
-<br />
 
----
+<br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ashishk1506&theme=dark)](https://git.io/streak-stats)
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -43,6 +41,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ashishk1506&layout=compact&theme=dracula"></img>
 </details> 
 
-[gmail]: ashishk8581@gmail.com
+[gmail]: https://mail.google.com/mail/u/0/?fs=1&to=ashishk8581@gmail.com&tf=cm
 [facebook]: https://www.facebook.com/profile.php?id=100013419812921
-[linkedin]: linkedin.com/in/ashish-kumar-9843931a4
+[linkedin]: https://linkedin.com/in/ashish-kumar-9843931a4
