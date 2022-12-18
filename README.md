@@ -35,7 +35,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ashishk1506&theme=dark)](https://git.io/streak-stats)
 <details>
   <summary>:zap: GitHub Stats</summary>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishk1506&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishk1506&show_icons=true&theme=radical"></img>
 </details> 
 <details>
   <summary>:zap: Languages </summary>
