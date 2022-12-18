@@ -40,7 +40,7 @@
 <br />
 <details>
   <summary>:zap: Languages </summary>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ashishk1506&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats"></img>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ashishk1506&layout=compact&theme=dracula"></img>
 </details> 
 
 [twitter]: https://twitter.com/AshishK85537027
