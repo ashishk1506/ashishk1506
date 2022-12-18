@@ -37,9 +37,10 @@
   <summary>:zap: GitHub Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=ashishk1506&show_icons=true&theme=radical"></img>
 </details> 
+<br />
 <details>
   <summary>:zap: Languages </summary>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishk1506&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ashishk1506&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats"></img>
 </details> 
 
 [twitter]: https://twitter.com/AshishK85537027
