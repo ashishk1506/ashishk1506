@@ -32,16 +32,15 @@
 <br />
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ashishk1506&theme=dark)](https://git.io/streak-stats)
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashishk1506&show_icons=true&theme=radical" />
+  ![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishk1506&show_icons=true&theme=dracula)
 
 </details> 
 <details>
   <summary>:zap: Languages </summary>
-  <img align="left" alt="Lngauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishk1506&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </details> 
 
 [twitter]: https://twitter.com/AshishK85537027
