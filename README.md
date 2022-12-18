@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ashish | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ashish | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ashish | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="ashish | gmail" width="22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img align="left" alt="ashish | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="ashish | Facebook" width="22px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 
 <br />
 
@@ -43,6 +43,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ashishk1506&layout=compact&theme=dracula"></img>
 </details> 
 
-[twitter]: https://twitter.com/AshishK85537027
+[gmail]: ashishk8581@gmail.com
 [facebook]: https://www.facebook.com/profile.php?id=100013419812921
 [linkedin]: linkedin.com/in/ashish-kumar-9843931a4
