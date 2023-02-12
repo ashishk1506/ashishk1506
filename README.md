@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,azure,cpp,css,firebase,git,heroku,html,js,mongodb,nodejs,postgres,py,react,swift,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,azure,cpp,css,firebase,git,heroku,html,js,mongodb,nodejs,postgres,py,react,swift,vscode,golang&perline=8)](https://skillicons.dev)
 
 
 ---
