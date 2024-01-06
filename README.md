@@ -1,10 +1,10 @@
 ### Hi there, I'm Ashish  👋
 
 
-## I'm a 4th year student at NIT Jamshedpur!!
+## NIT Jamshedpur Graduate 2023!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn Implement, Learn Implement....
+- 🥅 2024 Goals: Learn Implement, Learn Implement....
 - ⚡ Looking for carrer opportunities 
 
 
@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,azure,cpp,css,firebase,git,heroku,html,js,mongodb,nodejs,postgres,py,react,swift,vscode,golang&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,azure,cpp,css,firebase,git,heroku,html,js,mongodb,nodejs,postgres,py,react,swift,vscode,golang,aws&perline=8)](https://skillicons.dev)
 
 
 ---
